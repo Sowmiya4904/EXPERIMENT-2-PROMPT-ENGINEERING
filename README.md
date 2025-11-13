@@ -42,6 +42,15 @@ Step 5: Refine
 
 • Evaluate outputs; combine methods if needed (e.g., Role-Based + CoT for an
 expert reasoning persona).
+## Prompt:
+
+Conduct a detailed comparative analysis of different prompting patterns used in Large
+Language Models (LLMs). Cover at least the following types: Zero-Shot Prompting,
+Few-Shot Prompting, Chain-of-Thought Prompting, Role-Based Prompting, Instructional
+Prompting, and Self-Consistency Prompting. For each prompting pattern: explain the
+concept, provide an example test scenario, and analyze the strengths, weaknesses, and
+best use cases. Ensure the response is structured, uses clear headings, and highlights
+differences across the patterns.
 
 ## Output
 
